@@ -10,12 +10,12 @@
 3. Use the mouse pointer to enclose the area you want to read.
 4. Press the key below, and each of them corresponds to the save format.
     - 't' read texts as simple texts and save them as .txt file
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png)" width=50%>
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png)" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png" width=50%>
     - 'u' read texts as URL and open the page in your web browser.
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img3.png)" width=50%>
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out3.png)" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img3.png" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out3.png" width=50%>
     - 'c' read texts as C++ codes and make .cpp file
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img1.png)" width=50%>
-    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out2.png)" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img1.png" width=50%>
+    <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out2.png" width=50%>
 
