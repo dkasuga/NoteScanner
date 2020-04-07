@@ -17,15 +17,12 @@
     
     - 'u' read texts as URL and open the page in your web browser.
     
-| input | output |
-| ----- | ------ |
-
-    | <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img3.png" width=50%>|<img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out3.png" width=50%>|
+    |input|output|
+    |---|----|
+    |![](https://github.com/dkasuga/NoteScanner/blob/master/img/img3.png)|![](https://github.com/dkasuga/NoteScanner/blob/master/img/out3.png)|
 
     - 'c' read texts as C++ codes and make .cpp file
-    
-| input | output |
-| ----- | ------ |
-
-    |<img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img1.png" width=50%>|<img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out2.png" width=50%>|
+    |input|output|
+    |---|----|
+    |![](https://github.com/dkasuga/NoteScanner/blob/master/img/img1.png)|![](https://github.com/dkasuga/NoteScanner/blob/master/img/out2.png)|
 
