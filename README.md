@@ -13,7 +13,7 @@
     
     |input|output|
     |---|----|
-    |<img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png" width=50%>|<img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png" width=50%>|
+    |![](https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png)|![](https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png)|
     
     - 'u' read texts as URL and open the page in your web browser.
     
