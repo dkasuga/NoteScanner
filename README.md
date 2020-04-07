@@ -8,7 +8,7 @@
 1. Execute main.py and you see the movie recorded by face WebCam.
 2. Put something you want to transcribe and press 'p', and the screen freezes.
 3. Use the mouse pointer to enclose the area you want to read.
-4. Press the key below, and each of them corresponds to the save format.
+4. Press the follwing key, and each of them corresponds to the save format.
     - 't' read texts as simple texts and save them as .txt file
 
     | input                                                                | output                                                               |
