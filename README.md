@@ -22,6 +22,7 @@
     |![](https://github.com/dkasuga/NoteScanner/blob/master/img/img3.png)|![](https://github.com/dkasuga/NoteScanner/blob/master/img/out3.png)|
 
     - 'c' read texts as C++ codes and make .cpp file
+    
     |input|output|
     |---|----|
     |![](https://github.com/dkasuga/NoteScanner/blob/master/img/img1.png)|![](https://github.com/dkasuga/NoteScanner/blob/master/img/out2.png)|
