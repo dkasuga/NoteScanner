@@ -9,11 +9,11 @@
 2. Put something you want to transcribe and press 'p', and the screen freezes.
 3. Use the mouse pointer to enclose the area you want to read.
 4. Press the key below, and each of them corresponds to the save format.
-    - 't' read texts as simple texts and save them as .txt file<br>
+    - 't' read texts as simple texts and save them as .txt file
     | input | output |
     | ----  | -----  |
-    | <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png" width=50%> | <img src="https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png" width=50%> |
-
+    | ![](https://github.com/dkasuga/NoteScanner/blob/master/img/img2.png) | ![](https://github.com/dkasuga/NoteScanner/blob/master/img/out1.png) 
+    
     - 'u' read texts as URL and open the page in your web browser.<br>
 | input | output |
 | ----- | ------ |
